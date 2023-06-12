@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="./images/1.gif">
-
+<!--
 ### Hi I am a professional Full stack developer with experience of 5 years.
 
 ## Why Work With Me?
@@ -72,3 +72,4 @@ I will work as full time (40~50 hours per a week) in any time zone of my employe
 If you are interested in me, please just ping me in any time.
 Thanks for your interesting and reading. I hope we will see as soon.
 Best Regards
+-->
